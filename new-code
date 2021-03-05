@@ -1,0 +1,5 @@
+class New_Java_Class {
+	public static void main(String[] args){
+		System.out.println("CODE IS WORKING : JAVA IS WORKING");
+	}
+}
